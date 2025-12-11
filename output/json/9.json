@@ -1,0 +1,19 @@
+{
+    "name": "Graduate Certificate #9",
+    "description": "Verified blockchain certification.",
+    "image": "ipfs://bafybeifdppfcaeljaw2pdoq3bpxmg4neg5frt6ldft3sm2esvmaruasmvi/9.png",
+    "attributes": [
+        {
+            "trait_type": "Student Name",
+            "value": "Bob #9"
+        },
+        {
+            "trait_type": "Program",
+            "value": "Advanced Solidity"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "B"
+        }
+    ]
+}

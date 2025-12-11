@@ -1,0 +1,19 @@
+{
+    "name": "Graduate Certificate #10",
+    "description": "Verified blockchain certification.",
+    "image": "ipfs://bafybeifdppfcaeljaw2pdoq3bpxmg4neg5frt6ldft3sm2esvmaruasmvi/10.png",
+    "attributes": [
+        {
+            "trait_type": "Student Name",
+            "value": "Charlie #10"
+        },
+        {
+            "trait_type": "Program",
+            "value": "Blockchain 101"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "B"
+        }
+    ]
+}

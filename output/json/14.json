@@ -1,0 +1,19 @@
+{
+    "name": "Graduate Certificate #14",
+    "description": "Verified blockchain certification.",
+    "image": "ipfs://bafybeifdppfcaeljaw2pdoq3bpxmg4neg5frt6ldft3sm2esvmaruasmvi/14.png",
+    "attributes": [
+        {
+            "trait_type": "Student Name",
+            "value": "Charlie #14"
+        },
+        {
+            "trait_type": "Program",
+            "value": "DeFi Mastery"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "B"
+        }
+    ]
+}

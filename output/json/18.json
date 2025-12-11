@@ -1,0 +1,19 @@
+{
+    "name": "Graduate Certificate #18",
+    "description": "Verified blockchain certification.",
+    "image": "ipfs://bafybeifdppfcaeljaw2pdoq3bpxmg4neg5frt6ldft3sm2esvmaruasmvi/18.png",
+    "attributes": [
+        {
+            "trait_type": "Student Name",
+            "value": "Eve #18"
+        },
+        {
+            "trait_type": "Program",
+            "value": "NFT Architecture"
+        },
+        {
+            "trait_type": "Grade",
+            "value": "B+"
+        }
+    ]
+}
